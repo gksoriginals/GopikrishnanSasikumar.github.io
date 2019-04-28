@@ -4,7 +4,9 @@ body {
         color: #67e4e5;
       }
   .center {
-
+   position : absolute;
+   left : 200px;
+   bottom : 10px;
  
 
   margin: auto;
