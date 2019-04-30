@@ -56,7 +56,7 @@ ul.social-icons {
     color: #67E4E5;
     text-decoration: none;
 }
-.fa-mail {
+.fa-gmail {
     padding:10px 14px;
     -o-transition:.5s;
     -ms-transition:.5s;
@@ -65,7 +65,7 @@ ul.social-icons {
     transition: .5s;
     background-color: #000000;
 }
-.fa-mail:hover {
+.fa-gmail:hover {
     background-color: #322f30;
 }
 .fa-twitter {
