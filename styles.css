@@ -44,7 +44,10 @@ ul {
 .social-icon {
     color: #67E4E5;
 }
-
+ul.social-icons {
+    margin-top: 10px;
+    vertical-align: left;
+}
 .social-icons li {
     vertical-align: top;
     display: inline;
